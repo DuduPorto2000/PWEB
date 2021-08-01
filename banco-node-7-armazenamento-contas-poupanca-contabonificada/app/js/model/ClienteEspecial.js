@@ -1,0 +1,3 @@
+class ClienteEspecial extends Cliente {
+}
+;
